@@ -1,0 +1,1 @@
+this is testing file for .net core scaffolding CLI.

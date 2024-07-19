@@ -1,0 +1,22 @@
+{
+  "name": "generator-dot-net-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^7.3.2",
+    "yosay": "^3.0.0"
+  }
+}
