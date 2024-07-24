@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA8F883-A8FF-49D4-8577-4566A77D5D82}|SampleWeb.Domain\\SampleWeb.Domain.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.domain\\entities\\sampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA8F883-A8FF-49D4-8577-4566A77D5D82}|SampleWeb.Domain\\SampleWeb.Domain.csproj|solutionrelative:sampleweb.domain\\entities\\sampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA2988F-3DC3-4045-9D6F-1385AB661204}|SampleWeb.Infarstructure\\SampleWeb.Infarstructure.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.infarstructure\\data\\sampledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA2988F-3DC3-4045-9D6F-1385AB661204}|SampleWeb.Infarstructure\\SampleWeb.Infarstructure.csproj|solutionrelative:sampleweb.infarstructure\\data\\sampledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA2988F-3DC3-4045-9D6F-1385AB661204}|SampleWeb.Infarstructure\\SampleWeb.Infarstructure.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.infarstructure\\repository\\respository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA2988F-3DC3-4045-9D6F-1385AB661204}|SampleWeb.Infarstructure\\SampleWeb.Infarstructure.csproj|solutionrelative:sampleweb.infarstructure\\repository\\respository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.application\\interfaces\\isampleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|solutionrelative:sampleweb.application\\interfaces\\isampleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.application\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|solutionrelative:sampleweb.application\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|c:\\users\\dilshan\\desktop\\webassembly\\sampleweb\\sampleweb.application\\sampleweb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{010901BF-393C-4A3C-BE30-FB32341A58D0}|SampleWeb.Application\\SampleWeb.Application.csproj|solutionrelative:sampleweb.application\\sampleweb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Domain\\Entities\\SampleEntity.cs",
+              "RelativeDocumentMoniker": "SampleWeb.Domain\\Entities\\SampleEntity.cs",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Domain\\Entities\\SampleEntity.cs",
+              "RelativeToolTip": "SampleWeb.Domain\\Entities\\SampleEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:46:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Infarstructure\\Data\\SampleDB.cs",
+              "RelativeDocumentMoniker": "SampleWeb.Infarstructure\\Data\\SampleDB.cs",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Infarstructure\\Data\\SampleDB.cs",
+              "RelativeToolTip": "SampleWeb.Infarstructure\\Data\\SampleDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:46:19.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Respository.cs",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Infarstructure\\Repository\\Respository.cs",
+              "RelativeDocumentMoniker": "SampleWeb.Infarstructure\\Repository\\Respository.cs",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Infarstructure\\Repository\\Respository.cs",
+              "RelativeToolTip": "SampleWeb.Infarstructure\\Repository\\Respository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:46:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISampleInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\Interfaces\\ISampleInterface.cs",
+              "RelativeDocumentMoniker": "SampleWeb.Application\\Interfaces\\ISampleInterface.cs",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\Interfaces\\ISampleInterface.cs",
+              "RelativeToolTip": "SampleWeb.Application\\Interfaces\\ISampleInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:45:30.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleService.cs",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\Services\\SampleService.cs",
+              "RelativeDocumentMoniker": "SampleWeb.Application\\Services\\SampleService.cs",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\Services\\SampleService.cs",
+              "RelativeToolTip": "SampleWeb.Application\\Services\\SampleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:45:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SampleWeb.Application",
+              "DocumentMoniker": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\SampleWeb.Application.csproj",
+              "RelativeDocumentMoniker": "SampleWeb.Application\\SampleWeb.Application.csproj",
+              "ToolTip": "C:\\Users\\Dilshan\\Desktop\\WebAssembly\\SampleWeb\\SampleWeb.Application\\SampleWeb.Application.csproj",
+              "RelativeToolTip": "SampleWeb.Application\\SampleWeb.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T10:44:28.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

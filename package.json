@@ -16,6 +16,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.10",
+    "glob": "^11.0.0",
     "yeoman-generator": "^7.3.2",
     "yosay": "^3.0.0"
   }
